@@ -1,2 +1,2 @@
 # california-fitness-project
-My first Git project
+My first Git project.
